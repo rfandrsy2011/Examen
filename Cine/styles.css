@@ -252,7 +252,7 @@ h1, h2, h3 {
 }
 #testimonials1 {
   height: auto;
-  background: url('../imagenes/fondo2.jpg') no-repeat center center/cover;
+  background: url('./imagenes/fondo2.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 
